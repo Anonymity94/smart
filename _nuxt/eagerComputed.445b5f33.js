@@ -1,0 +1,1 @@
+import{R as s}from"./useSize.a977b624.js";import{p as o,J as r,aX as a,aM as t,W as f}from"./entry.82983d8d.js";function l(){var n=o({}),e=null;return r(function(){e=s.subscribe(function(u){n.value=u})}),a(function(){s.unsubscribe(e)}),n}function p(n){var e=t();return f(function(){e.value=n()},{flush:"sync"}),e}export{p as e,l as u};

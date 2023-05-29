@@ -1,0 +1,1 @@
+import{p as r,aF as t}from"./entry.82983d8d.js";var a=function(){var e=r(new Map),n=function(s){return function(f){e.value.set(s,f)}};return t(function(){e.value=new Map}),[n,e]};const c=a;export{c as u};
